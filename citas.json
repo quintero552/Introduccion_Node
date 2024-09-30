@@ -1,0 +1,23 @@
+[
+  {
+    "nombre": "Pechon",
+    "edad": "2 años",
+    "tipo": "perro",
+    "color": "negro",
+    "enfermedad": "vomito"
+  },
+  {
+    "nombre": "Pluma",
+    "edad": "1 año",
+    "tipo": "gato",
+    "color": "gris",
+    "enfermedad": "locura"
+  },
+  {
+    "nombre": "Avio",
+    "edad": "5 año",
+    "tipo": "pato",
+    "color": "blanco",
+    "enfermedad": "gloton"
+  }
+]
